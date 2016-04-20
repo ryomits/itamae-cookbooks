@@ -1,0 +1,6 @@
+rbenv:
+  user: ec2-user
+  version: 2.3.0
+
+recipes:
+  - rbenv
